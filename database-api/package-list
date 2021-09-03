@@ -1,0 +1,7 @@
+de.heliumdioxid.databaseapi.api
+de.heliumdioxid.databaseapi.api.data
+de.heliumdioxid.databaseapi.mongo
+de.heliumdioxid.databaseapi.mongo.config
+de.heliumdioxid.databaseapi.mysql
+de.heliumdioxid.databaseapi.mysql.config
+de.heliumdioxid.databaseapi.mysql.utils
